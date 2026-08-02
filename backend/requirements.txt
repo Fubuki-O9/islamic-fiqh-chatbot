@@ -1,0 +1,24 @@
+# ---- Web server ----
+Flask>=3.0
+flask-cors>=4.0
+requests>=2.31
+
+# ---- Config ----
+python-dotenv>=1.0
+
+# ---- Retrieval & embeddings ----
+sentence-transformers>=2.7
+rank-bm25>=0.2.2
+numpy>=1.26
+PyYAML>=6.0
+nltk>=3.8
+
+# ---- Generation (Google Gemini) ----
+google-genai>=0.3
+
+# ---- Voice (optional but recommended) ----
+openai-whisper>=20231117
+edge-tts>=6.1
+
+# ---- Query logging (optional) ----
+pymongo>=4.6

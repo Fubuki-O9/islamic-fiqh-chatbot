@@ -1,0 +1,53 @@
+# ---- Secrets (NEVER commit these) ----
+.env
+.env.*
+*.pem
+*.key
+
+# ---- The fine-tuned model (too big for Git — hosted externally) ----
+# Distributed via Hugging Face / Google Drive; see README for the download step.
+backend/models/
+models/
+*.safetensors
+*.bin
+*.pt
+*.onnx
+
+# ---- Large data files (if any exceed ~50MB, ignore and document the download) ----
+# Uncomment the lines below if these files are large in your repo:
+# backend/data/*.json
+# backend/data/*.yaml
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- Node / frontend ----
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ---- Whisper / model caches downloaded at runtime ----
+.cache/
+*.whisper
+whisper_models/
+
+# ---- Logs & temp ----
+*.log
+tmp/
+temp/
+*.tmp
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

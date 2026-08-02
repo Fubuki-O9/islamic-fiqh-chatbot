@@ -1,0 +1,2202 @@
+- topic_id: five_daily_prayers
+  topic_name: Number of daily prayers (the five obligatory prayers)
+  description: How many obligatory prayers a Muslim must perform each day and night
+  references:
+    quran:
+    - chapter: 4
+      ayah: 103
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 46
+    - source: Sahih Muslim
+      hadith_no: 11
+  rulings:
+    hanafi:
+      ruling: Five obligatory prayers each day and night
+      explanation: Fajr, Zuhr, Asr, Maghrib and Isha are obligatory (fard) upon every
+        accountable Muslim. The Qur'an establishes that prayer is prescribed at fixed
+        times (4:103); the number five is established by the Sunnah and the consensus
+        of the Ummah.
+      certainty: high
+    shafi:
+      ruling: Five obligatory prayers each day and night
+      explanation: Fajr, Zuhr, Asr, Maghrib and Isha are obligatory. The Prophet stated
+        that Allah enjoined five prayers in a day and night, and the Ummah is unanimous
+        on this.
+      certainty: high
+    maliki:
+      ruling: Five obligatory prayers each day and night
+      explanation: Fajr, Zuhr, Asr, Maghrib and Isha are obligatory. The count of
+        five comes from the authentic Sunnah and consensus, with their appointed times
+        indicated in the Qur'an (4:103).
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: niyyah
+  topic_name: Intention (Niyyah)
+  description: The requirement of intention in acts of worship
+  references:
+    quran:
+    - chapter: 1
+      ayah: 1
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1
+  rulings:
+    hanafi:
+      ruling: Intention is required
+      explanation: Intention must be present in the heart before performing acts of
+        worship
+      certainty: high
+    shafi:
+      ruling: Intention is obligatory
+      explanation: Intention is considered a pillar of worship
+      certainty: high
+    maliki:
+      ruling: Intention is obligatory
+      explanation: Intention differentiates worship from habitual actions
+      certainty: high
+  consensus: true
+- topic_id: combining_prayers_travel
+  topic_name: Combining prayers during travel
+  description: Whether obligatory prayers may be combined while travelling
+  references:
+    quran:
+    - chapter: 4
+      ayah: 101
+    hadith:
+    - source: Sahih Muslim
+      hadith_no: 1664
+  rulings:
+    hanafi:
+      ruling: Generally discouraged
+      explanation: Prayers should be performed at their prescribed times except in
+        necessity
+      certainty: medium
+    shafi:
+      ruling: Permissible
+      explanation: Authentic narrations allow combining prayers during travel
+      certainty: high
+    maliki:
+      ruling: Permissible
+      explanation: Permitted during legitimate travel conditions
+      certainty: high
+  consensus: false
+- topic_id: qasr_prayer
+  topic_name: Shortening prayers (Qasr)
+  description: Shortening four-unit prayers while travelling
+  references:
+    quran:
+    - chapter: 4
+      ayah: 101
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1089
+  rulings:
+    hanafi:
+      ruling: Obligatory
+      explanation: Shortening prayers is mandatory for travellers
+      certainty: high
+    shafi:
+      ruling: Recommended
+      explanation: Qasr is a concession and recommended
+      certainty: high
+    maliki:
+      ruling: Recommended
+      explanation: Shortening prayers is encouraged but not compulsory
+      certainty: high
+  consensus: false
+- topic_id: fasting_travel
+  topic_name: Fasting while travelling
+  description: Ruling on fasting during travel in Ramadan
+  references:
+    quran:
+    - chapter: 2
+      ayah: 184
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1943
+  rulings:
+    hanafi:
+      ruling: Permissible
+      explanation: Fasting is allowed if no hardship is faced
+      certainty: medium
+    shafi:
+      ruling: Permissible
+      explanation: Traveller has the option to fast or break the fast
+      certainty: high
+    maliki:
+      ruling: Permissible
+      explanation: Breaking the fast is allowed if hardship exists
+      certainty: high
+  consensus: true
+- topic_id: bleeding_wudu
+  topic_name: Bleeding and wudu
+  description: Whether bleeding invalidates ablution
+  references:
+    quran:
+    - chapter: 5
+      ayah: 6
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 137
+  rulings:
+    hanafi:
+      ruling: Invalidates wudu
+      explanation: Flowing blood breaks ablution
+      certainty: medium
+    shafi:
+      ruling: Does not invalidate wudu
+      explanation: Bleeding is not listed among nullifiers
+      certainty: high
+    maliki:
+      ruling: Does not invalidate wudu
+      explanation: Only specific impurities nullify ablution
+      certainty: high
+  consensus: false
+- topic_id: touching_opposite_gender
+  topic_name: Touching the opposite gender
+  description: Effect of physical contact on ablution
+  references:
+    quran:
+    - chapter: 4
+      ayah: 43
+    hadith:
+    - source: Sahih Muslim
+      hadith_no: 368
+  rulings:
+    hanafi:
+      ruling: Does not invalidate wudu
+      explanation: Physical contact alone does not nullify ablution
+      certainty: high
+    shafi:
+      ruling: Invalidates wudu
+      explanation: Skin contact with the opposite gender breaks ablution
+      certainty: high
+    maliki:
+      ruling: Depends on desire
+      explanation: Contact with desire invalidates ablution
+      certainty: medium
+  consensus: false
+- topic_id: music
+  topic_name: Listening to music
+  description: Ruling on listening to musical instruments
+  references:
+    quran:
+    - chapter: 31
+      ayah: 6
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 5590
+  rulings:
+    hanafi:
+      ruling: Generally discouraged
+      explanation: Musical instruments are discouraged in most cases
+      certainty: low
+    shafi:
+      ruling: Differing opinions
+      explanation: Scholars differ based on context and content
+      certainty: low
+    maliki:
+      ruling: Differing opinions
+      explanation: Context and usage determine permissibility
+      certainty: low
+  consensus: false
+- topic_id: beard
+  topic_name: Keeping a beard
+  description: Obligation or recommendation of keeping a beard
+  references:
+    quran:
+    - chapter: 30
+      ayah: 30
+    hadith:
+    - source: Sahih Muslim
+      hadith_no: 259
+  rulings:
+    hanafi:
+      ruling: Obligatory
+      explanation: Keeping a beard is considered obligatory
+      certainty: high
+    shafi:
+      ruling: Recommended
+      explanation: Keeping a beard is emphasized but not obligatory
+      certainty: medium
+    maliki:
+      ruling: Recommended
+      explanation: Beard is encouraged as a prophetic practice
+      certainty: medium
+  consensus: false
+- topic_id: congregational_prayer
+  topic_name: Congregational prayer
+  description: Ruling on performing prayers in congregation
+  references:
+    quran:
+    - chapter: 2
+      ayah: 43
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 645
+  rulings:
+    hanafi:
+      ruling: Emphasized Sunnah
+      explanation: Congregation is strongly emphasized
+      certainty: high
+    shafi:
+      ruling: Communal obligation
+      explanation: Congregation fulfills a communal duty
+      certainty: high
+    maliki:
+      ruling: Recommended
+      explanation: Congregational prayer is encouraged
+      certainty: high
+  consensus: false
+- topic_id: jumuah_traveller
+  topic_name: Friday prayer for travellers
+  description: Obligation of Jumu‘ah prayer on travellers
+  references:
+    quran:
+    - chapter: 62
+      ayah: 9
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1067
+  rulings:
+    hanafi:
+      ruling: Not obligatory
+      explanation: Travellers are exempt from Friday prayer
+      certainty: high
+    shafi:
+      ruling: Not obligatory
+      explanation: Friday prayer is not compulsory for travellers
+      certainty: high
+    maliki:
+      ruling: Not obligatory
+      explanation: Travellers are not required to attend Jumu‘ah
+      certainty: high
+  consensus: true
+- topic_id: missed_prayers
+  topic_name: Making up missed prayers
+  description: Obligation to make up obligatory prayers that were missed
+  references:
+    quran:
+    - chapter: 4
+      ayah: 103
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 597
+  rulings:
+    hanafi:
+      ruling: Obligatory
+      explanation: Missed prayers must be made up
+      certainty: high
+    shafi:
+      ruling: Obligatory
+      explanation: Missed prayers remain a responsibility
+      certainty: high
+    maliki:
+      ruling: Obligatory
+      explanation: Missed prayers must be performed later
+      certainty: high
+  consensus: true
+- topic_id: masah_socks
+  topic_name: Wiping over socks (Masah)
+  description: Permissibility of wiping over socks during ablution
+  references:
+    quran:
+    - chapter: 5
+      ayah: 6
+    hadith:
+    - source: Sahih Muslim
+      hadith_no: 276
+  rulings:
+    hanafi:
+      ruling: Allowed with conditions
+      explanation: Conditions include thickness and durability
+      certainty: medium
+    shafi:
+      ruling: Allowed
+      explanation: Wiping over socks is permissible
+      certainty: high
+    maliki:
+      ruling: Allowed
+      explanation: Permitted with appropriate conditions
+      certainty: high
+  consensus: false
+- topic_id: zakat_gold
+  topic_name: Zakat on gold
+  description: Obligation of zakat on gold holdings
+  references:
+    quran:
+    - chapter: 9
+      ayah: 34
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1424
+  rulings:
+    hanafi:
+      ruling: Obligatory
+      explanation: Zakat is due on gold above the nisab
+      certainty: high
+    shafi:
+      ruling: Obligatory
+      explanation: Zakat applies when gold reaches nisab
+      certainty: high
+    maliki:
+      ruling: Obligatory
+      explanation: Gold is zakatable when conditions are met
+      certainty: high
+  consensus: true
+- topic_id: intoxicants
+  topic_name: Intoxicants other than alcohol
+  description: Ruling on substances that cause intoxication
+  references:
+    quran:
+    - chapter: 5
+      ayah: 90
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 5575
+  rulings:
+    hanafi:
+      ruling: Prohibited
+      explanation: Any intoxicant is prohibited regardless of form
+      certainty: high
+    shafi:
+      ruling: Prohibited
+      explanation: Intoxication itself is the cause of prohibition
+      certainty: high
+    maliki:
+      ruling: Prohibited
+      explanation: All intoxicating substances are forbidden
+      certainty: high
+  consensus: true
+- topic_id: speaking_prayer
+  topic_name: Speaking intentionally during prayer
+  description: Effect of intentional speech on prayer validity
+  references:
+    quran:
+    - chapter: 2
+      ayah: 238
+    hadith:
+    - source: Sahih Muslim
+      hadith_no: 537
+  rulings:
+    hanafi:
+      ruling: Invalidates prayer
+      explanation: Intentional speech breaks the prayer
+      certainty: high
+    shafi:
+      ruling: Invalidates prayer
+      explanation: Speech nullifies prayer regardless of reason
+      certainty: high
+    maliki:
+      ruling: Invalidates prayer
+      explanation: Intentional speech invalidates prayer
+      certainty: high
+  consensus: true
+- topic_id: sleep_wudu
+  topic_name: Sleeping and Wudu
+  description: Whether sleeping invalidates ablution
+  references:
+    quran:
+    - chapter: 5
+      ayah: 6
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 137
+  rulings:
+    hanafi:
+      ruling: Invalidates wudu in deep sleep
+      explanation: Deep sleep causes loss of awareness and invalidates wudu
+      certainty: medium
+    shafi:
+      ruling: Invalidates wudu if posture is unstable
+      explanation: Sleep that removes awareness invalidates wudu
+      certainty: high
+    maliki:
+      ruling: Invalidates wudu in deep sleep
+      explanation: Loss of consciousness breaks wudu
+      certainty: medium
+  consensus: false
+- topic_id: laughing_prayer
+  topic_name: Laughing During Prayer
+  description: Effect of laughing during prayer on its validity
+  references:
+    quran:
+    - chapter: 2
+      ayah: 238
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1216
+  rulings:
+    hanafi:
+      ruling: Invalidates prayer and wudu
+      explanation: Loud laughter nullifies both prayer and wudu
+      certainty: medium
+    shafi:
+      ruling: Invalidates prayer only
+      explanation: Prayer is invalidated but wudu remains valid
+      certainty: high
+    maliki:
+      ruling: Invalidates prayer only
+      explanation: Laughing breaks prayer but not wudu
+      certainty: high
+  consensus: false
+- topic_id: doubt_wudu
+  topic_name: Doubt About Wudu
+  description: Effect of doubt on the validity of ablution
+  references:
+    quran:
+    - chapter: 5
+      ayah: 6
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 137
+  rulings:
+    hanafi:
+      ruling: Wudu remains valid
+      explanation: Certainty is not removed by doubt
+      certainty: high
+    shafi:
+      ruling: Wudu remains valid
+      explanation: Doubt does not nullify certainty
+      certainty: high
+    maliki:
+      ruling: Wudu remains valid
+      explanation: Original state of purity remains
+      certainty: high
+  consensus: true
+- topic_id: impurity_clothes
+  topic_name: Impurity on Clothes
+  description: Praying with impurity on clothes or body
+  references:
+    quran:
+    - chapter: 74
+      ayah: 4
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 227
+  rulings:
+    hanafi:
+      ruling: Prayer invalid if impurity exceeds limit
+      explanation: Minor impurities are excused within limits
+      certainty: medium
+    shafi:
+      ruling: Prayer invalid with any impurity
+      explanation: Complete purity is required
+      certainty: high
+    maliki:
+      ruling: Prayer invalid if impurity is significant
+      explanation: Small unavoidable impurities are excused
+      certainty: medium
+  consensus: false
+- topic_id: missed_rakah
+  topic_name: Missing Rak‘ah in Congregation
+  description: What to do when a rak‘ah is missed behind the imam
+  references:
+    quran:
+    - chapter: 4
+      ayah: 102
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 636
+  rulings:
+    hanafi:
+      ruling: Complete missed rak‘ahs after imam
+      explanation: Missed units are completed at the end
+      certainty: high
+    shafi:
+      ruling: Complete missed rak‘ahs after imam
+      explanation: Latecomer completes remaining prayer
+      certainty: high
+    maliki:
+      ruling: Complete missed rak‘ahs after imam
+      explanation: Missed portions are completed later
+      certainty: high
+  consensus: true
+- topic_id: late_prayer
+  topic_name: Delaying Prayer
+  description: Ruling on delaying prayer beyond its prescribed time
+  references:
+    quran:
+    - chapter: 4
+      ayah: 103
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 527
+  rulings:
+    hanafi:
+      ruling: Sinful without excuse
+      explanation: Prayer must be offered on time
+      certainty: high
+    shafi:
+      ruling: Sinful without excuse
+      explanation: Delaying prayer intentionally is sinful
+      certainty: high
+    maliki:
+      ruling: Sinful without excuse
+      explanation: Prayer has fixed times
+      certainty: high
+  consensus: true
+- topic_id: sajda_sahw
+  topic_name: Sajda Sahw
+  description: Prostration of forgetfulness in prayer
+  references:
+    quran:
+    - chapter: 2
+      ayah: 238
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1224
+  rulings:
+    hanafi:
+      ruling: Required in certain mistakes
+      explanation: Obligatory acts missed require sajda sahw
+      certainty: high
+    shafi:
+      ruling: Recommended
+      explanation: Sajda sahw compensates mistakes
+      certainty: high
+    maliki:
+      ruling: Required or recommended based on mistake
+      explanation: Depends on type of omission
+      certainty: medium
+  consensus: false
+- topic_id: forgetful_eating_fast
+  topic_name: Eating Forgetfully While Fasting
+  description: Effect of forgetful eating on fasting
+  references:
+    quran:
+    - chapter: 2
+      ayah: 187
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1933
+  rulings:
+    hanafi:
+      ruling: Fast remains valid
+      explanation: Forgetful eating does not break the fast
+      certainty: high
+    shafi:
+      ruling: Fast remains valid
+      explanation: Unintentional eating is excused
+      certainty: high
+    maliki:
+      ruling: Fast remains valid
+      explanation: No liability for forgetfulness
+      certainty: high
+  consensus: true
+- topic_id: injections_fasting
+  topic_name: Injections While Fasting
+  description: Effect of medical injections on fasting
+  references:
+    quran:
+    - chapter: 2
+      ayah: 185
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1894
+  rulings:
+    hanafi:
+      ruling: Does not break fast unless nutritive
+      explanation: Nutrition-based injections invalidate fast
+      certainty: medium
+    shafi:
+      ruling: Does not break fast
+      explanation: Non-nutritive injections are permissible
+      certainty: medium
+    maliki:
+      ruling: Does not break fast
+      explanation: Injection does not resemble eating
+      certainty: medium
+  consensus: false
+- topic_id: vomiting_fasting
+  topic_name: Vomiting While Fasting
+  description: Effect of vomiting on the fast
+  references:
+    quran:
+    - chapter: 2
+      ayah: 187
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1938
+  rulings:
+    hanafi:
+      ruling: Breaks fast if intentional and mouthful
+      explanation: Intentional vomiting nullifies the fast
+      certainty: medium
+    shafi:
+      ruling: Breaks fast if intentional
+      explanation: Deliberate vomiting breaks fast
+      certainty: high
+    maliki:
+      ruling: Breaks fast if intentional
+      explanation: Intentional vomiting invalidates fast
+      certainty: high
+  consensus: false
+- topic_id: zakat_salary
+  topic_name: Zakat on Salary
+  description: Whether zakat is due on salary income
+  references:
+    quran:
+    - chapter: 9
+      ayah: 103
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1395
+  rulings:
+    hanafi:
+      ruling: Zakat due on saved amount
+      explanation: Only savings reaching nisab are zakatable
+      certainty: high
+    shafi:
+      ruling: Zakat due on savings
+      explanation: Zakat applies after one lunar year
+      certainty: high
+    maliki:
+      ruling: Zakat due on savings
+      explanation: Savings reaching nisab are zakatable
+      certainty: high
+  consensus: true
+- topic_id: zakat_debt
+  topic_name: Debt and Zakat
+  description: Effect of debt on zakat obligation
+  references:
+    quran:
+    - chapter: 9
+      ayah: 103
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1395
+  rulings:
+    hanafi:
+      ruling: Debt reduces zakat liability
+      explanation: Outstanding debts are deducted
+      certainty: high
+    shafi:
+      ruling: Debt does not cancel zakat fully
+      explanation: Only immediate debts considered
+      certainty: medium
+    maliki:
+      ruling: Debt reduces zakat
+      explanation: Debt impacts zakat obligation
+      certainty: medium
+  consensus: false
+- topic_id: imam_mistake
+  topic_name: Mistake by Imam in Prayer
+  description: What followers should do if the imam makes a mistake
+  references:
+    quran:
+    - chapter: 4
+      ayah: 102
+    hadith:
+    - source: Sahih Bukhari
+      hadith_no: 1224
+  rulings:
+    hanafi:
+      ruling: Follower corrects imam verbally
+      explanation: Correction is allowed if mistake affects prayer
+      certainty: high
+    shafi:
+      ruling: Follower corrects imam verbally
+      explanation: Correction ensures prayer validity
+      certainty: high
+    maliki:
+      ruling: Follower corrects imam verbally
+      explanation: Congregation may alert imam
+      certainty: high
+  consensus: true
+- topic_id: vomiting_wudu
+  topic_name: Vomiting and wudu
+  description: Whether vomiting invalidates ablution
+  references:
+    quran:
+    - chapter: 5
+      ayah: 6
+    hadith:
+    - source: Jami at-Tirmidhi
+      hadith_no: 87
+  rulings:
+    hanafi:
+      ruling: Breaks wudu if a mouthful
+      explanation: A mouthful of vomit (an amount that could not be held back without
+        difficulty) invalidates wudu; less than a mouthful does not.
+      certainty: high
+    shafi:
+      ruling: Does not break wudu
+      explanation: Vomiting does not invalidate wudu regardless of quantity, as wudu
+        is broken only by what exits the front or back passage.
+      certainty: high
+    maliki:
+      ruling: Does not break wudu
+      explanation: Vomiting does not invalidate wudu; there is no firm textual proof
+        that it does.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+  note: The detailed ruling rests primarily on the Sunnah and scholarly consensus;
+    the cited verse is the general governing basis.
+- topic_id: travel_fast_makeup
+  topic_name: Making up fasts missed in travel
+  description: Repaying Ramadan fasts missed due to a journey
+  references:
+    quran:
+    - chapter: 2
+      ayah: 184
+    - chapter: 2
+      ayah: 185
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Missed fasts are made up
+      explanation: Fasts not kept during travel are made up day-for-day afterwards,
+        ideally before the next Ramadan.
+      certainty: high
+    shafi:
+      ruling: Missed fasts are made up
+      explanation: Fasts not kept during travel are made up day-for-day afterwards,
+        ideally before the next Ramadan.
+      certainty: high
+    maliki:
+      ruling: Missed fasts are made up
+      explanation: Fasts not kept during travel are made up day-for-day afterwards,
+        ideally before the next Ramadan.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: zakat_joint_wealth
+  topic_name: Zakat on jointly owned wealth
+  description: Zakat treatment of shared or partnership wealth
+  references:
+    quran:
+    - chapter: 9
+      ayah: 103
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Each pays on their own share
+      explanation: Each partner assesses zakat separately on their share once it reaches
+        nisab; commingling does not merge the holdings.
+      certainty: high
+    shafi:
+      ruling: Commingled wealth may be treated as one
+      explanation: Under khultah rules commingled wealth (especially livestock) can
+        be treated as a single holding for zakat.
+      certainty: high
+    maliki:
+      ruling: Khultah rules may apply
+      explanation: Commingled wealth can be treated jointly for zakat under defined
+        conditions, otherwise each pays on their share.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: using_perfume_prayer
+  topic_name: Using perfume during prayer
+  description: Use of fragrance, including alcohol-based perfume, in prayer
+  references:
+    quran:
+    - chapter: 7
+      ayah: 31
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Perfume permitted; alcohol-based debated
+      explanation: Using perfume is permitted and even encouraged for cleanliness;
+        contemporary scholars differ on alcohol-based perfumes, many permitting them
+        as the alcohol is not the prohibited intoxicant.
+      certainty: medium
+    shafi:
+      ruling: Perfume permitted; alcohol-based debated
+      explanation: Using perfume is permitted and even encouraged for cleanliness;
+        contemporary scholars differ on alcohol-based perfumes, many permitting them
+        as the alcohol is not the prohibited intoxicant.
+      certainty: medium
+    maliki:
+      ruling: Perfume permitted; alcohol-based debated
+      explanation: Using perfume is permitted and even encouraged for cleanliness;
+        contemporary scholars differ on alcohol-based perfumes, many permitting them
+        as the alcohol is not the prohibited intoxicant.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: prayer_workplace
+  topic_name: Praying at the workplace
+  description: Validity of prayer performed at work or non-mosque locations
+  references:
+    quran:
+    - chapter: 2
+      ayah: 238
+    hadith:
+    - source: Sahih al-Bukhari
+      hadith_no: 438
+  rulings:
+    hanafi:
+      ruling: Valid in any clean place
+      explanation: Prayer is valid in any clean location, so praying at the workplace
+        or office is fine when a mosque is not accessible.
+      certainty: high
+    shafi:
+      ruling: Valid in any clean place
+      explanation: Prayer is valid in any clean location, so praying at the workplace
+        or office is fine when a mosque is not accessible.
+      certainty: high
+    maliki:
+      ruling: Valid in any clean place
+      explanation: Prayer is valid in any clean location, so praying at the workplace
+        or office is fine when a mosque is not accessible.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+  note: The detailed ruling rests primarily on the Sunnah and scholarly consensus;
+    the cited verse is the general governing basis.
+- topic_id: prayer_time_overlap
+  topic_name: Praying near the end of prayer time
+  description: Validity of prayer offered at the boundary of its time
+  references:
+    quran:
+    - chapter: 4
+      ayah: 103
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Must fall within its time
+      explanation: Each prayer must be performed within its appointed time; one who
+        catches even a single unit within the time has caught the prayer, but deliberate
+        delay until the time nearly ends is sinful.
+      certainty: high
+    shafi:
+      ruling: Must fall within its time
+      explanation: Each prayer must be performed within its appointed time; one who
+        catches even a single unit within the time has caught the prayer, but deliberate
+        delay until the time nearly ends is sinful.
+      certainty: high
+    maliki:
+      ruling: Must fall within its time
+      explanation: Each prayer must be performed within its appointed time; one who
+        catches even a single unit within the time has caught the prayer, but deliberate
+        delay until the time nearly ends is sinful.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: tayammum
+  topic_name: Dry ablution (Tayammum)
+  description: Substitute purification when water is unavailable or harmful
+  references:
+    quran:
+    - chapter: 4
+      ayah: 43
+    - chapter: 5
+      ayah: 6
+    hadith:
+    - source: Sahih al-Bukhari
+      hadith_no: 438
+  rulings:
+    hanafi:
+      ruling: Permitted without water
+      explanation: Dry ablution with clean earth replaces wudu or ghusl when water
+        is unavailable or its use would cause harm; valid earth includes sand and
+        stone.
+      certainty: high
+    shafi:
+      ruling: Permitted without water
+      explanation: Permitted when water is absent or harmful, but the earth used must
+        carry fine dust; one must first seek water if it may be nearby.
+      certainty: high
+    maliki:
+      ruling: Permitted without water
+      explanation: Permitted when water is unavailable or unusable; a wide range of
+        clean ground surfaces may be used. The relevant provision is in the verses
+        on purification.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: ghusl_obligation
+  topic_name: Obligation of ghusl
+  description: Situations that make the ritual bath obligatory
+  references:
+    quran:
+    - chapter: 4
+      ayah: 43
+    - chapter: 5
+      ayah: 6
+    hadith:
+    - source: Sahih Muslim
+      hadith_no: 349
+  rulings:
+    hanafi:
+      ruling: Obligatory for major impurity
+      explanation: Ghusl is obligatory after sexual intercourse (even without emission),
+        emission of semen with pleasure including a wet dream, and the ending of menstruation
+        or postnatal bleeding.
+      certainty: high
+    shafi:
+      ruling: Obligatory for major impurity
+      explanation: 'Same core causes: intercourse, emission of semen, and the end
+        of menses or postnatal bleeding; intention is required for the ghusl to be
+        valid.'
+      certainty: high
+    maliki:
+      ruling: Obligatory for major impurity
+      explanation: Same core causes apply; the Maliki school also obliges ghusl where
+        there is doubt between semen and other discharge, out of caution.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: menstruation_worship
+  topic_name: Worship during menstruation
+  description: Rulings on prayer, fasting and recitation during menses
+  references:
+    quran:
+    - chapter: 2
+      ayah: 222
+    hadith:
+    - source: Sahih Muslim
+      hadith_no: 335
+  rulings:
+    hanafi:
+      ruling: Prayer dropped, fasting made up
+      explanation: During menstruation prayer is not performed and not made up; fasting
+        is forbidden and made up later; intercourse and touching the Mushaf are not
+        allowed until ghusl.
+      certainty: high
+    shafi:
+      ruling: Prayer dropped, fasting made up
+      explanation: During menstruation prayer is not performed and not made up; fasting
+        is forbidden and made up later; intercourse and touching the Mushaf are not
+        allowed until ghusl.
+      certainty: high
+    maliki:
+      ruling: Prayer dropped, fasting made up
+      explanation: During menstruation prayer is not performed and not made up; fasting
+        is forbidden and made up later; intercourse and touching the Mushaf are not
+        allowed until ghusl.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: nail_polish_wudu
+  topic_name: Nail polish and wudu
+  description: Whether nail polish forms a barrier affecting ablution
+  references:
+    quran:
+    - chapter: 5
+      ayah: 6
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Must be removed for valid wudu
+      explanation: Nail polish forms a waterproof layer that stops water reaching
+        the nail, so wudu or ghusl is invalid while it is worn; it must be removed
+        first.
+      certainty: high
+    shafi:
+      ruling: Must be removed for valid wudu
+      explanation: Nail polish forms a waterproof layer that stops water reaching
+        the nail, so wudu or ghusl is invalid while it is worn; it must be removed
+        first.
+      certainty: high
+    maliki:
+      ruling: Must be removed for valid wudu
+      explanation: Nail polish forms a waterproof layer that stops water reaching
+        the nail, so wudu or ghusl is invalid while it is worn; it must be removed
+        first.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: halal_haram_food
+  topic_name: Lawful and unlawful food
+  description: Rulings on pork and non-halal meat
+  references:
+    quran:
+    - chapter: 2
+      ayah: 173
+    - chapter: 5
+      ayah: 3
+    - chapter: 6
+      ayah: 145
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Pork and improper slaughter haram
+      explanation: Carrion, flowing blood, swine and animals not slaughtered in the
+        prescribed way or dedicated to other than Allah are forbidden; otherwise food
+        is lawful.
+      certainty: high
+    shafi:
+      ruling: Pork and improper slaughter haram
+      explanation: Carrion, flowing blood, swine and animals not slaughtered in the
+        prescribed way or dedicated to other than Allah are forbidden; otherwise food
+        is lawful.
+      certainty: high
+    maliki:
+      ruling: Pork and improper slaughter haram
+      explanation: Carrion, flowing blood, swine and animals not slaughtered in the
+        prescribed way or dedicated to other than Allah are forbidden; otherwise food
+        is lawful.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: gelatin_additives
+  topic_name: Gelatin and food additives
+  description: Status of animal-derived gelatin and doubtful additives
+  references:
+    quran:
+    - chapter: 2
+      ayah: 173
+    - chapter: 5
+      ayah: 3
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Depends on source and transformation
+      explanation: Gelatin from pork or improperly slaughtered animals is impermissible;
+        from lawful sources it is fine. Whether chemical transformation (istihala)
+        makes it lawful is debated.
+      certainty: medium
+    shafi:
+      ruling: Depends on source and transformation
+      explanation: Gelatin from pork or improperly slaughtered animals is impermissible;
+        from lawful sources it is fine. Whether chemical transformation (istihala)
+        makes it lawful is debated.
+      certainty: medium
+    maliki:
+      ruling: Depends on source and transformation
+      explanation: Gelatin from pork or improperly slaughtered animals is impermissible;
+        from lawful sources it is fine. Whether chemical transformation (istihala)
+        makes it lawful is debated.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: zakat_fitr
+  topic_name: Zakat al-Fitr
+  description: The charity due at the end of Ramadan
+  references:
+    quran:
+    - chapter: 87
+      ayah: 14
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Wajib before Eid
+      explanation: Zakat al-Fitr is wajib on every Muslim with surplus, one sa' of
+        staple food (or its value) per person, paid before the Eid prayer.
+      certainty: high
+    shafi:
+      ruling: Obligatory before Eid
+      explanation: Obligatory on one who has surplus on the night and day of Eid;
+        one sa' of the local staple food per person, value not normally accepted.
+      certainty: high
+    maliki:
+      ruling: Obligatory before Eid
+      explanation: Obligatory as one sa' of the staple food, to be given before the
+        Eid prayer.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+  note: The detailed ruling rests primarily on the Sunnah and scholarly consensus;
+    the cited verse is the general governing basis.
+- topic_id: zakat_silver
+  topic_name: Zakat on silver
+  description: Zakat obligation and nisab for silver
+  references:
+    quran:
+    - chapter: 9
+      ayah: 103
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Due at nisab, 2.5%
+      explanation: Zakat on silver is due once holdings reach the nisab (about 595g)
+        and a lunar year passes, at the rate of 2.5%.
+      certainty: high
+    shafi:
+      ruling: Due at nisab, 2.5%
+      explanation: Zakat on silver is due once holdings reach the nisab (about 595g)
+        and a lunar year passes, at the rate of 2.5%.
+      certainty: high
+    maliki:
+      ruling: Due at nisab, 2.5%
+      explanation: Zakat on silver is due once holdings reach the nisab (about 595g)
+        and a lunar year passes, at the rate of 2.5%.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: riba_interest
+  topic_name: Interest (Riba)
+  description: Ruling on bank interest and usury
+  references:
+    quran:
+    - chapter: 2
+      ayah: 275
+    - chapter: 2
+      ayah: 278
+    - chapter: 2
+      ayah: 279
+    - chapter: 3
+      ayah: 130
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Haram
+      explanation: All forms of interest (riba) are forbidden by clear texts and the
+        consensus of the schools, with no minimum threshold.
+      certainty: high
+    shafi:
+      ruling: Haram
+      explanation: All forms of interest (riba) are forbidden by clear texts and the
+        consensus of the schools, with no minimum threshold.
+      certainty: high
+    maliki:
+      ruling: Haram
+      explanation: All forms of interest (riba) are forbidden by clear texts and the
+        consensus of the schools, with no minimum threshold.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: conventional_insurance
+  topic_name: Conventional insurance
+  description: Ruling on commercial/life insurance contracts
+  references:
+    quran:
+    - chapter: 5
+      ayah: 90
+    - chapter: 2
+      ayah: 275
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Commercial insurance haram
+      explanation: Conventional insurance is generally held impermissible because
+        of gharar, maysir and riba; takaful (cooperative insurance) is offered as
+        the alternative.
+      certainty: high
+    shafi:
+      ruling: Commercial insurance haram
+      explanation: Conventional insurance is generally held impermissible because
+        of gharar, maysir and riba; takaful (cooperative insurance) is offered as
+        the alternative.
+      certainty: high
+    maliki:
+      ruling: Commercial insurance haram
+      explanation: Conventional insurance is generally held impermissible because
+        of gharar, maysir and riba; takaful (cooperative insurance) is offered as
+        the alternative.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+  note: Modern issue not addressed by the classical schools directly; ruling reflects
+    contemporary scholarship and fiqh councils reasoning from the prohibitions of
+    riba, gharar (uncertainty) and maysir (gambling).
+- topic_id: crypto_trading
+  topic_name: Cryptocurrency trading
+  description: Ruling on trading digital currencies
+  references:
+    quran:
+    - chapter: 2
+      ayah: 275
+    - chapter: 4
+      ayah: 29
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Contested among contemporary scholars
+      explanation: Some permit trading assets free of riba and excessive gharar; others
+        prohibit it citing speculation and lack of intrinsic value. No classical position
+        exists.
+      certainty: medium
+    shafi:
+      ruling: Contested among contemporary scholars
+      explanation: Some permit trading assets free of riba and excessive gharar; others
+        prohibit it citing speculation and lack of intrinsic value. No classical position
+        exists.
+      certainty: medium
+    maliki:
+      ruling: Contested among contemporary scholars
+      explanation: Some permit trading assets free of riba and excessive gharar; others
+        prohibit it citing speculation and lack of intrinsic value. No classical position
+        exists.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+  note: Modern issue not addressed by the classical schools directly; ruling reflects
+    contemporary scholarship and fiqh councils reasoning from the prohibitions of
+    riba, gharar (uncertainty) and maysir (gambling).
+- topic_id: stock_investment
+  topic_name: Stock investment
+  description: Ruling on investing in shares and equities
+  references:
+    quran:
+    - chapter: 2
+      ayah: 275
+    - chapter: 2
+      ayah: 188
+    - chapter: 4
+      ayah: 29
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Permitted with screening
+      explanation: Investing in shares is permitted when the company's core business
+        is lawful and it passes financial screens; impermissible for haram sectors
+        or interest-heavy firms.
+      certainty: medium
+    shafi:
+      ruling: Permitted with screening
+      explanation: Investing in shares is permitted when the company's core business
+        is lawful and it passes financial screens; impermissible for haram sectors
+        or interest-heavy firms.
+      certainty: medium
+    maliki:
+      ruling: Permitted with screening
+      explanation: Investing in shares is permitted when the company's core business
+        is lawful and it passes financial screens; impermissible for haram sectors
+        or interest-heavy firms.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+  note: Modern issue not addressed by the classical schools directly; ruling reflects
+    contemporary scholarship and fiqh councils reasoning from the prohibitions of
+    riba, gharar (uncertainty) and maysir (gambling).
+- topic_id: pictures_living_beings
+  topic_name: Images of living beings
+  description: Ruling on photography and images of animate beings
+  references:
+    quran:
+    - chapter: 4
+      ayah: 119
+    hadith:
+    - source: Sahih al-Bukhari
+      hadith_no: 5951
+  rulings:
+    hanafi:
+      ruling: Statues forbidden; photographs debated
+      explanation: Three-dimensional statues of animate beings are forbidden; contemporary
+        scholars differ on photographs and screen images, many permitting them for
+        genuine need.
+      certainty: medium
+    shafi:
+      ruling: Statues forbidden; photographs debated
+      explanation: Three-dimensional statues of animate beings are forbidden; contemporary
+        scholars differ on photographs and screen images, many permitting them for
+        genuine need.
+      certainty: medium
+    maliki:
+      ruling: Statues forbidden; photographs debated
+      explanation: Three-dimensional statues of animate beings are forbidden; contemporary
+        scholars differ on photographs and screen images, many permitting them for
+        genuine need.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+  note: The detailed ruling rests primarily on the Sunnah and scholarly consensus;
+    the cited verse is the general governing basis.
+- topic_id: keeping_dogs
+  topic_name: Keeping dogs
+  description: Ruling on keeping dogs as pets or for need
+  references:
+    quran:
+    - chapter: 5
+      ayah: 4
+    hadith:
+    - source: Sahih al-Bukhari
+      hadith_no: 2322
+  rulings:
+    hanafi:
+      ruling: Permitted for need, discouraged as mere pet
+      explanation: Keeping a dog for guarding, hunting or herding is permitted; keeping
+        one with no need is discouraged by the majority. Schools differ on the impurity
+        of its saliva.
+      certainty: medium
+    shafi:
+      ruling: Permitted for need, discouraged as mere pet
+      explanation: Keeping a dog for guarding, hunting or herding is permitted; keeping
+        one with no need is discouraged by the majority. Schools differ on the impurity
+        of its saliva.
+      certainty: medium
+    maliki:
+      ruling: Permitted for need, discouraged as mere pet
+      explanation: Keeping a dog for guarding, hunting or herding is permitted; keeping
+        one with no need is discouraged by the majority. Schools differ on the impurity
+        of its saliva.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+  note: The detailed ruling rests primarily on the Sunnah and scholarly consensus;
+    the cited verse is the general governing basis.
+- topic_id: tattoos
+  topic_name: Tattoos
+  description: Ruling on getting tattoos
+  references:
+    quran:
+    - chapter: 4
+      ayah: 119
+    hadith:
+    - source: Sahih al-Bukhari
+      hadith_no: 5931
+  rulings:
+    hanafi:
+      ruling: Permanent tattoos forbidden
+      explanation: Permanent tattooing is forbidden as it alters the creation and
+        involves the narrated curse on the one who tattoos and is tattooed.
+      certainty: high
+    shafi:
+      ruling: Permanent tattoos forbidden
+      explanation: Permanent tattooing is forbidden as it alters the creation and
+        involves the narrated curse on the one who tattoos and is tattooed.
+      certainty: high
+    maliki:
+      ruling: Permanent tattoos forbidden
+      explanation: Permanent tattooing is forbidden as it alters the creation and
+        involves the narrated curse on the one who tattoos and is tattooed.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: men_gold_silk
+  topic_name: Gold and silk for men
+  description: Ruling on men wearing gold or silk
+  references:
+    quran:
+    - chapter: 7
+      ayah: 32
+    hadith:
+    - source: Sunan an-Nasa'i
+      hadith_no: 5148
+  rulings:
+    hanafi:
+      ruling: Forbidden for men, allowed for women
+      explanation: Wearing gold and pure silk is forbidden for men and permitted for
+        women.
+      certainty: high
+    shafi:
+      ruling: Forbidden for men, allowed for women
+      explanation: Wearing gold and pure silk is forbidden for men and permitted for
+        women.
+      certainty: high
+    maliki:
+      ruling: Forbidden for men, allowed for women
+      explanation: Wearing gold and pure silk is forbidden for men and permitted for
+        women.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+  note: The detailed ruling rests primarily on the Sunnah and scholarly consensus;
+    the cited verse is the general governing basis.
+- topic_id: hijab_obligation
+  topic_name: Obligation of hijab
+  description: Ruling on covering for women
+  references:
+    quran:
+    - chapter: 24
+      ayah: 31
+    - chapter: 33
+      ayah: 59
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Obligatory; face-covering debated
+      explanation: Covering the body and hair before non-mahram men is obligatory
+        for adult women; the schools differ on whether covering the face (niqab) is
+        obligatory or recommended.
+      certainty: medium
+    shafi:
+      ruling: Obligatory; face-covering debated
+      explanation: Covering the body and hair before non-mahram men is obligatory
+        for adult women; the schools differ on whether covering the face (niqab) is
+        obligatory or recommended.
+      certainty: medium
+    maliki:
+      ruling: Obligatory; face-covering debated
+      explanation: Covering the body and hair before non-mahram men is obligatory
+        for adult women; the schools differ on whether covering the face (niqab) is
+        obligatory or recommended.
+      certainty: medium
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: free_mixing
+  topic_name: Free mixing of genders
+  description: Ruling on unrestricted mixing between men and women
+  references:
+    quran:
+    - chapter: 24
+      ayah: 30
+    - chapter: 24
+      ayah: 31
+    - chapter: 33
+      ayah: 53
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Restricted; seclusion forbidden
+      explanation: Needed, modest interaction is permitted, but unrestricted mixing
+        and especially seclusion (khalwa) with a non-mahram are not allowed; schools
+        and scholars vary in strictness.
+      certainty: medium
+    shafi:
+      ruling: Restricted; seclusion forbidden
+      explanation: Needed, modest interaction is permitted, but unrestricted mixing
+        and especially seclusion (khalwa) with a non-mahram are not allowed; schools
+        and scholars vary in strictness.
+      certainty: medium
+    maliki:
+      ruling: Restricted; seclusion forbidden
+      explanation: Needed, modest interaction is permitted, but unrestricted mixing
+        and especially seclusion (khalwa) with a non-mahram are not allowed; schools
+        and scholars vary in strictness.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: mahr_dowry
+  topic_name: Mahr (dowry)
+  description: Rulings on the marriage dower
+  references:
+    quran:
+    - chapter: 4
+      ayah: 4
+    - chapter: 4
+      ayah: 24
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Obligatory; minimum ten dirhams
+      explanation: Mahr is the wife's right; the Hanafi school sets a minimum of ten
+        dirhams, with no maximum.
+      certainty: high
+    shafi:
+      ruling: Obligatory; no fixed minimum
+      explanation: Mahr is obligatory with no fixed minimum or maximum; anything of
+        value may serve.
+      certainty: high
+    maliki:
+      ruling: Obligatory; minimum three dirhams
+      explanation: Mahr is obligatory; the Maliki school sets a minimum of three dirhams.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: talaq_divorce
+  topic_name: Divorce (Talaq)
+  description: Method and rulings of pronouncing divorce
+  references:
+    quran:
+    - chapter: 2
+      ayah: 229
+    - chapter: 2
+      ayah: 230
+    - chapter: 65
+      ayah: 1
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Permitted but disliked; sunni method is one revocable talaq
+      explanation: Divorce is lawful but discouraged; the prescribed manner is a single
+        revocable pronouncement in a period of purity without intercourse. Counting
+        three pronouncements made together is debated.
+      certainty: high
+    shafi:
+      ruling: Permitted but disliked; sunni method is one revocable talaq
+      explanation: Divorce is lawful but discouraged; the prescribed manner is a single
+        revocable pronouncement in a period of purity without intercourse. Counting
+        three pronouncements made together is debated.
+      certainty: high
+    maliki:
+      ruling: Permitted but disliked; sunni method is one revocable talaq
+      explanation: Divorce is lawful but discouraged; the prescribed manner is a single
+        revocable pronouncement in a period of purity without intercourse. Counting
+        three pronouncements made together is debated.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: iddah_waiting
+  topic_name: Waiting period (Iddah)
+  description: The post-divorce or widowhood waiting period
+  references:
+    quran:
+    - chapter: 2
+      ayah: 228
+    - chapter: 2
+      ayah: 234
+    - chapter: 65
+      ayah: 4
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Three cycles; widow four months ten days; pregnant until delivery
+      explanation: A divorced woman who menstruates waits three cycles; a widow waits
+        four months and ten days; a pregnant woman's iddah ends at delivery; there
+        is no iddah if the marriage was not consummated.
+      certainty: high
+    shafi:
+      ruling: Three cycles; widow four months ten days; pregnant until delivery
+      explanation: A divorced woman who menstruates waits three cycles; a widow waits
+        four months and ten days; a pregnant woman's iddah ends at delivery; there
+        is no iddah if the marriage was not consummated.
+      certainty: high
+    maliki:
+      ruling: Three cycles; widow four months ten days; pregnant until delivery
+      explanation: A divorced woman who menstruates waits three cycles; a widow waits
+        four months and ten days; a pregnant woman's iddah ends at delivery; there
+        is no iddah if the marriage was not consummated.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: janazah_prayer
+  topic_name: Funeral prayer (Janazah)
+  description: Method and rulings of the funeral prayer
+  references:
+    quran:
+    - chapter: 9
+      ayah: 84
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Fard kifayah
+      explanation: 'The funeral prayer is a communal obligation (fard kifayah): if
+        some perform it the duty is lifted from the rest. It consists of four takbirs
+        without ruku or sujud.'
+      certainty: high
+    shafi:
+      ruling: Fard kifayah
+      explanation: 'The funeral prayer is a communal obligation (fard kifayah): if
+        some perform it the duty is lifted from the rest. It consists of four takbirs
+        without ruku or sujud.'
+      certainty: high
+    maliki:
+      ruling: Fard kifayah
+      explanation: 'The funeral prayer is a communal obligation (fard kifayah): if
+        some perform it the duty is lifted from the rest. It consists of four takbirs
+        without ruku or sujud.'
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+  note: The detailed ruling rests primarily on the Sunnah and scholarly consensus;
+    the cited verse is the general governing basis.
+- topic_id: qurbani_udhiyah
+  topic_name: Sacrifice (Qurbani / Udhiyah)
+  description: Ruling on the Eid al-Adha sacrifice
+  references:
+    quran:
+    - chapter: 108
+      ayah: 2
+    - chapter: 22
+      ayah: 36
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Wajib on those of means
+      explanation: Udhiyah is obligatory (wajib) on every resident Muslim of means
+        during the days of Eid al-Adha.
+      certainty: high
+    shafi:
+      ruling: Sunnah mu'akkadah
+      explanation: Udhiyah is a strongly recommended sunnah, not obligatory.
+      certainty: high
+    maliki:
+      ruling: Sunnah mu'akkadah
+      explanation: Udhiyah is a strongly recommended sunnah.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: witr_obligation
+  topic_name: Witr prayer
+  description: Status of the witr prayer (wajib / sunnah)
+  references:
+    quran:
+    - chapter: 17
+      ayah: 79
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Wajib
+      explanation: Witr is wajib, prayed after Isha.
+      certainty: high
+    shafi:
+      ruling: Sunnah mu'akkadah
+      explanation: Witr is a strongly recommended sunnah, not wajib.
+      certainty: high
+    maliki:
+      ruling: Sunnah mu'akkadah
+      explanation: Witr is a strongly recommended sunnah.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+  note: The detailed ruling rests primarily on the Sunnah and scholarly consensus;
+    the cited verse is the general governing basis.
+- topic_id: tarawih_rakats
+  topic_name: Number of Tarawih rakats
+  description: Rulings on the count of Tarawih units
+  references:
+    quran:
+    - chapter: 2
+      ayah: 185
+    hadith:
+    - source: Sahih al-Bukhari
+      hadith_no: 2013
+  rulings:
+    hanafi:
+      ruling: Sunnah; commonly twenty rakats
+      explanation: Tarawih is a strongly recommended sunnah in Ramadan; the long-standing
+        practice in the schools is twenty rakats, while some hold eight; both are
+        accepted.
+      certainty: medium
+    shafi:
+      ruling: Sunnah; commonly twenty rakats
+      explanation: Tarawih is a strongly recommended sunnah in Ramadan; the long-standing
+        practice in the schools is twenty rakats, while some hold eight; both are
+        accepted.
+      certainty: medium
+    maliki:
+      ruling: Sunnah; commonly twenty rakats
+      explanation: Tarawih is a strongly recommended sunnah in Ramadan; the long-standing
+        practice in the schools is twenty rakats, while some hold eight; both are
+        accepted.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+  note: The detailed ruling rests primarily on the Sunnah and scholarly consensus;
+    the cited verse is the general governing basis.
+- topic_id: smoking_ruling
+  topic_name: Smoking
+  description: Ruling on cigarettes and tobacco
+  references:
+    quran:
+    - chapter: 2
+      ayah: 195
+    - chapter: 7
+      ayah: 157
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: 'Contemporary majority: haram'
+      explanation: In light of established harm, most contemporary scholars rule smoking
+        forbidden; an older view held it merely disliked (makruh).
+      certainty: medium
+    shafi:
+      ruling: 'Contemporary majority: haram'
+      explanation: In light of established harm, most contemporary scholars rule smoking
+        forbidden; an older view held it merely disliked (makruh).
+      certainty: medium
+    maliki:
+      ruling: 'Contemporary majority: haram'
+      explanation: In light of established harm, most contemporary scholars rule smoking
+        forbidden; an older view held it merely disliked (makruh).
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+  note: Modern issue not addressed by the classical schools directly; ruling reflects
+    contemporary scholarship and fiqh councils reasoning from the prohibitions of
+    riba, gharar (uncertainty) and maysir (gambling).
+- topic_id: fidya_fasting
+  topic_name: Fidya for fasting
+  description: Compensation for those unable to fast
+  references:
+    quran:
+    - chapter: 2
+      ayah: 184
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Feed a poor person per day
+      explanation: One permanently unable to fast (the very elderly or chronically
+        ill) pays fidya by feeding a needy person for each missed day instead of fasting.
+      certainty: high
+    shafi:
+      ruling: Feed a poor person per day
+      explanation: One permanently unable to fast (the very elderly or chronically
+        ill) pays fidya by feeding a needy person for each missed day instead of fasting.
+      certainty: high
+    maliki:
+      ruling: Feed a poor person per day
+      explanation: One permanently unable to fast (the very elderly or chronically
+        ill) pays fidya by feeding a needy person for each missed day instead of fasting.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: itikaf
+  topic_name: Itikaf
+  description: Spiritual retreat in the mosque, especially in Ramadan
+  references:
+    quran:
+    - chapter: 2
+      ayah: 187
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Sunnah, emphasised in last ten days
+      explanation: Itikaf (secluding oneself in the mosque for worship) is a sunnah,
+        especially emphasised in the last ten days of Ramadan.
+      certainty: high
+    shafi:
+      ruling: Sunnah, emphasised in last ten days
+      explanation: Itikaf (secluding oneself in the mosque for worship) is a sunnah,
+        especially emphasised in the last ten days of Ramadan.
+      certainty: high
+    maliki:
+      ruling: Sunnah, emphasised in last ten days
+      explanation: Itikaf (secluding oneself in the mosque for worship) is a sunnah,
+        especially emphasised in the last ten days of Ramadan.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: praying_on_transport
+  topic_name: Praying on transport
+  description: Performing salah on planes, cars and moving vehicles
+  references:
+    quran:
+    - chapter: 2
+      ayah: 239
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Voluntary prayer allowed; obligatory needs qibla
+      explanation: Voluntary prayer may be offered on a moving vehicle in the direction
+        of travel; obligatory prayer must face the qibla and be performed properly,
+        or as one is able if genuinely unable.
+      certainty: high
+    shafi:
+      ruling: Voluntary prayer allowed; obligatory needs qibla
+      explanation: Voluntary prayer may be offered on a moving vehicle in the direction
+        of travel; obligatory prayer must face the qibla and be performed properly,
+        or as one is able if genuinely unable.
+      certainty: high
+    maliki:
+      ruling: Voluntary prayer allowed; obligatory needs qibla
+      explanation: Voluntary prayer may be offered on a moving vehicle in the direction
+        of travel; obligatory prayer must face the qibla and be performed properly,
+        or as one is able if genuinely unable.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: earning_haram_income
+  topic_name: Earning haram income
+  description: Ruling on income from forbidden sources or jobs
+  references:
+    quran:
+    - chapter: 2
+      ayah: 188
+    - chapter: 4
+      ayah: 29
+    - chapter: 2
+      ayah: 275
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Haram income impermissible
+      explanation: Earning from forbidden sources (interest, alcohol, gambling and
+        the like) is impermissible; one must leave such work and dispose of unlawful
+        wealth.
+      certainty: high
+    shafi:
+      ruling: Haram income impermissible
+      explanation: Earning from forbidden sources (interest, alcohol, gambling and
+        the like) is impermissible; one must leave such work and dispose of unlawful
+        wealth.
+      certainty: high
+    maliki:
+      ruling: Haram income impermissible
+      explanation: Earning from forbidden sources (interest, alcohol, gambling and
+        the like) is impermissible; one must leave such work and dispose of unlawful
+        wealth.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: hajj_obligation
+  topic_name: Obligation of Hajj
+  description: Conditions under which Hajj becomes obligatory
+  references:
+    quran:
+    - chapter: 3
+      ayah: 97
+    hadith:
+    - source: Sahih al-Bukhari
+      hadith_no: 8
+  rulings:
+    hanafi:
+      ruling: Fard once in a lifetime for the able
+      explanation: Hajj is obligatory once in a lifetime upon every Muslim who has
+        the physical and financial ability (istita'ah).
+      certainty: high
+    shafi:
+      ruling: Fard once in a lifetime for the able
+      explanation: Hajj is obligatory once in a lifetime upon every Muslim who has
+        the physical and financial ability (istita'ah).
+      certainty: high
+    maliki:
+      ruling: Fard once in a lifetime for the able
+      explanation: Hajj is obligatory once in a lifetime upon every Muslim who has
+        the physical and financial ability (istita'ah).
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: hajj_rulings
+  topic_name: Rites of Hajj
+  description: Method and rulings of performing the Hajj pilgrimage
+  references:
+    quran:
+    - chapter: 2
+      ayah: 196
+    - chapter: 2
+      ayah: 197
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Defined rites in order
+      explanation: Hajj is performed by entering ihram, standing at Arafah (the essential
+        pillar), tawaf al-ifadah and sa'i, with other rites; schools differ on which
+        acts are pillars versus obligations.
+      certainty: medium
+    shafi:
+      ruling: Defined rites in order
+      explanation: Hajj is performed by entering ihram, standing at Arafah (the essential
+        pillar), tawaf al-ifadah and sa'i, with other rites; schools differ on which
+        acts are pillars versus obligations.
+      certainty: medium
+    maliki:
+      ruling: Defined rites in order
+      explanation: Hajj is performed by entering ihram, standing at Arafah (the essential
+        pillar), tawaf al-ifadah and sa'i, with other rites; schools differ on which
+        acts are pillars versus obligations.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: umrah_rulings
+  topic_name: Rulings of Umrah
+  description: Method and rulings of performing Umrah
+  references:
+    quran:
+    - chapter: 2
+      ayah: 196
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Sunnah mu'akkadah
+      explanation: Umrah is a strongly recommended sunnah, performed by ihram, tawaf,
+        sa'i and shortening/shaving the hair.
+      certainty: high
+    shafi:
+      ruling: Obligatory once
+      explanation: Umrah is obligatory once in a lifetime, with the same rites.
+      certainty: high
+    maliki:
+      ruling: Sunnah mu'akkadah
+      explanation: Umrah is a strongly recommended sunnah.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: nikah_conditions
+  topic_name: Conditions of marriage (Nikah)
+  description: Requirements for a valid marriage contract
+  references:
+    quran:
+    - chapter: 4
+      ayah: 3
+    - chapter: 24
+      ayah: 32
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Offer, acceptance, two witnesses
+      explanation: A valid marriage needs proposal and acceptance with mutual consent
+        before two witnesses; a guardian is recommended but not a condition for an
+        adult woman.
+      certainty: high
+    shafi:
+      ruling: Offer, acceptance, wali, witnesses
+      explanation: Requires consent, a guardian (wali), and two witnesses for validity.
+      certainty: high
+    maliki:
+      ruling: Offer, acceptance, wali, public notice
+      explanation: Requires consent and a guardian, with public announcement of the
+        marriage rather than the strict two-witness condition.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: wali_marriage
+  topic_name: Guardian (Wali) in marriage
+  description: Role and necessity of the wali in the marriage contract
+  references:
+    quran:
+    - chapter: 2
+      ayah: 232
+    hadith:
+    - source: Sunan Abi Dawud
+      hadith_no: 2085
+  rulings:
+    hanafi:
+      ruling: Not a condition for an adult woman
+      explanation: A sane adult woman may contract her own marriage; involving the
+        wali is recommended but not required for validity.
+      certainty: high
+    shafi:
+      ruling: Wali is a condition
+      explanation: A marriage is not valid without the woman's guardian.
+      certainty: high
+    maliki:
+      ruling: Wali is a condition
+      explanation: A guardian is required for a valid marriage contract.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: spousal_intimacy
+  topic_name: Intimacy between spouses
+  description: Rulings on marital relations and their limits
+  references:
+    quran:
+    - chapter: 2
+      ayah: 222
+    - chapter: 2
+      ayah: 223
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Lawful, with limits
+      explanation: Intimacy between spouses is lawful; it is forbidden during menstruation
+        and postnatal bleeding, and anal intercourse is forbidden.
+      certainty: high
+    shafi:
+      ruling: Lawful, with limits
+      explanation: Intimacy between spouses is lawful; it is forbidden during menstruation
+        and postnatal bleeding, and anal intercourse is forbidden.
+      certainty: high
+    maliki:
+      ruling: Lawful, with limits
+      explanation: Intimacy between spouses is lawful; it is forbidden during menstruation
+        and postnatal bleeding, and anal intercourse is forbidden.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: mortgage_home
+  topic_name: Conventional mortgage
+  description: Ruling on interest-based home financing
+  references:
+    quran:
+    - chapter: 2
+      ayah: 275
+    - chapter: 2
+      ayah: 278
+    - chapter: 2
+      ayah: 279
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Conventional mortgage haram
+      explanation: An interest-based mortgage is forbidden as riba; scholars direct
+        people to Shariah-compliant alternatives such as murabaha, ijara or diminishing
+        musharaka.
+      certainty: high
+    shafi:
+      ruling: Conventional mortgage haram
+      explanation: An interest-based mortgage is forbidden as riba; scholars direct
+        people to Shariah-compliant alternatives such as murabaha, ijara or diminishing
+        musharaka.
+      certainty: high
+    maliki:
+      ruling: Conventional mortgage haram
+      explanation: An interest-based mortgage is forbidden as riba; scholars direct
+        people to Shariah-compliant alternatives such as murabaha, ijara or diminishing
+        musharaka.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+  note: Modern issue not addressed by the classical schools directly; ruling reflects
+    contemporary scholarship and fiqh councils reasoning from the prohibitions of
+    riba, gharar (uncertainty) and maysir (gambling).
+- topic_id: pregnancy_fasting
+  topic_name: Fasting in pregnancy and nursing
+  description: Rulings on fasting for pregnant and breastfeeding women
+  references:
+    quran:
+    - chapter: 2
+      ayah: 184
+    - chapter: 2
+      ayah: 185
+    hadith:
+    - source: Sunan Abi Dawud
+      hadith_no: 2318
+  rulings:
+    hanafi:
+      ruling: May break the fast, makes up later
+      explanation: A pregnant or nursing woman who fears harm may break the fast and
+        must make up (qada) the missed days; no fidya is required.
+      certainty: high
+    shafi:
+      ruling: May break; qada, and fidya if fearing for child
+      explanation: She makes up the fasts; if she broke the fast fearing for the child
+        alone, she also pays fidya.
+      certainty: high
+    maliki:
+      ruling: May break; nursing woman adds fidya
+      explanation: A pregnant woman makes up the fasts; a nursing woman makes them
+        up and also pays fidya if she feared for the child.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: quran_recitation_wudu
+  topic_name: Reciting Quran and purity
+  description: Rulings on touching/reciting the Quran without ablution
+  references:
+    quran:
+    - chapter: 56
+      ayah: 79
+    - chapter: 5
+      ayah: 6
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Wudu required to touch the Mushaf
+      explanation: Touching the Arabic Mushaf requires wudu; reciting from memory
+        is allowed without wudu but not in a state of major impurity. The Hanafi school
+        extends this to translations.
+      certainty: high
+    shafi:
+      ruling: Wudu required to touch the Mushaf
+      explanation: Touching the Mushaf requires purity; recitation from memory is
+        permitted without wudu provided one is not in major impurity.
+      certainty: high
+    maliki:
+      ruling: Wudu required to touch the Mushaf
+      explanation: Touching the Mushaf requires purity; recitation from memory without
+        wudu is allowed, and wudu for it is recommended as etiquette.
+      certainty: high
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: inheritance
+  topic_name: Inheritance (Mirath)
+  description: Rulings on the distribution of a deceased person's estate
+  references:
+    quran:
+    - chapter: 4
+      ayah: 11
+    - chapter: 4
+      ayah: 12
+    - chapter: 4
+      ayah: 176
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Fixed Quranic shares then residuary
+      explanation: The estate is distributed in the fixed shares set in the Quran
+        (e.g. a son twice a daughter, spouse and parents' shares), with the remainder
+        going to residuary heirs. Precise cases require a faraid specialist.
+      certainty: medium
+    shafi:
+      ruling: Fixed Quranic shares then residuary
+      explanation: The estate is distributed in the fixed shares set in the Quran
+        (e.g. a son twice a daughter, spouse and parents' shares), with the remainder
+        going to residuary heirs. Precise cases require a faraid specialist.
+      certainty: medium
+    maliki:
+      ruling: Fixed Quranic shares then residuary
+      explanation: The estate is distributed in the fixed shares set in the Quran
+        (e.g. a son twice a daughter, spouse and parents' shares), with the remainder
+        going to residuary heirs. Precise cases require a faraid specialist.
+      certainty: medium
+  consensus: true
+  source_method: web_researched
+  scholar_review: pending
+  note: Inheritance arithmetic (faraid) is precise and case-dependent; individual
+    distributions must be calculated by a qualified specialist before any reliance.
+- topic_id: dua_dhikr
+  topic_name: Supplication and remembrance
+  description: Rulings on collective dua and dhikr practices
+  references:
+    quran:
+    - chapter: 7
+      ayah: 55
+    - chapter: 2
+      ayah: 186
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Encouraged; manner debated
+      explanation: Supplication and remembrance of Allah are encouraged; scholars
+        differ on specific practices such as regular collective dua in congregation
+        after the obligatory prayer.
+      certainty: medium
+    shafi:
+      ruling: Encouraged; manner debated
+      explanation: Supplication and remembrance of Allah are encouraged; scholars
+        differ on specific practices such as regular collective dua in congregation
+        after the obligatory prayer.
+      certainty: medium
+    maliki:
+      ruling: Encouraged; manner debated
+      explanation: Supplication and remembrance of Allah are encouraged; scholars
+        differ on specific practices such as regular collective dua in congregation
+        after the obligatory prayer.
+      certainty: medium
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
+- topic_id: missing_prayer_sin
+  topic_name: Abandoning prayer
+  description: Ruling on intentionally neglecting the obligatory prayers
+  references:
+    quran:
+    - chapter: 4
+      ayah: 103
+    - chapter: 19
+      ayah: 59
+    hadith: []
+  rulings:
+    hanafi:
+      ruling: Major sin; must make up
+      explanation: Deliberately abandoning prayer is a major sin; the missed prayers
+        must be made up (qada) and one must repent.
+      certainty: high
+    shafi:
+      ruling: Major sin; must make up
+      explanation: Abandoning prayer is a grave sin requiring repentance and making
+        up the missed prayers.
+      certainty: high
+    maliki:
+      ruling: Major sin; must make up
+      explanation: A grave sin; the missed prayers are made up and sincere repentance
+        is required.
+      certainty: high
+  consensus: false
+  source_method: web_researched
+  scholar_review: pending
