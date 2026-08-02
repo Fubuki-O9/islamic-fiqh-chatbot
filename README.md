@@ -67,7 +67,7 @@ automatically on first run** — see below.
 │   ├── data/               # Qur'an, Hadith, and Fiqh datasets
 │   ├── requirements.txt
 │   └── .env.example        # copy to .env and add your keys
-└── frontend/               # static web UI (HTML/CSS/JS)
+└── islamic_chatbot_frontend/   # static web UI (HTML/CSS/JS)
     ├── index.html
     ├── script.js
     ├── style.css
@@ -113,13 +113,13 @@ The first run downloads the fine-tuned model from Hugging Face — give it a min
 Open a second terminal:
 
 ```bash
-cd frontend
+cd islamic_chatbot_frontend
 python -m http.server 5500
 ```
 
 Then open **http://localhost:5500** in your browser.
 
-*(Check that `frontend/config.js` has `BACKEND_URL: "http://localhost:5000"`.)*
+*(Check that `islamic_chatbot_frontend/config.js` has `BACKEND_URL: "http://localhost:5000"`.)*
 
 ---
 
